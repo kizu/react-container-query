@@ -1,4 +1,4 @@
-import ResizeObserverLite from 'resize-observer-lite';
+import ResizeObserverLite from '@kizu/resize-observer-lite';
 import matchQueries from 'container-query-toolkit/lib/matchQueries';
 import {Params, Query} from './interfaces';
 import isShallowEqual from './isShallowEqual';

@@ -1,6 +1,6 @@
 {
-  "name": "react-container-query",
-  "version": "0.11.0",
+  "name": "@kizu/react-container-query",
+  "version": "0.11.1-beta1",
   "description": "Container Query for React Component",
   "author": "Daiwei Lu <daiweilu123@gmail.com> (http://daiwei.lu)",
   "repository": {
@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "container-query-toolkit": "0.1.3",
-    "resize-observer-lite": "0.2.3"
+    "@kizu/resize-observer-lite": "0.2.4-beta1"
   },
   "devDependencies": {
     "@types/react": "16.0.36",
